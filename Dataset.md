@@ -1,4 +1,4 @@
-# Assignment 2 Data Set
+# Data Set
 
 | image_id | image | human_caption | photo |
 | :---         |       :---:        | :---     |     :---:      |
